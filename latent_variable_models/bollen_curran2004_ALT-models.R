@@ -1,4 +1,4 @@
-# Bollen & Curren (2002)
+# Bollen & Curren (2004)
 # Example #1 - simulation using ALT model
 # based on covariance matrix reported in Rogosa & Willet (1985)
 library(lavaan)
